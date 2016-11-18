@@ -307,14 +307,17 @@ header {
 }
 .ais-refinement-list--label:hover, .ais-refinement-list--item__active .ais-refinement-list--label,
 .ais-menu--link:hover, .ais-menu--item__active .ais-menu--link {
-  background-color: #2EACEB;
+  /*background-color: #2EACEB;*/
   padding:0px 15% 0px 0px;
-  color:white;
+  color:#2EACEB;
+  text-decoration: underline;
   border-radius: 3px;
 }
 .ais-refinement-list--item__active .ais-refinement-list--label:hover,
 .ais-menu--item__active .ais-menu--link:hover {
-  background-color: #2EACEB;
+  /*background-color: #2EACEB;*/
+  color:#2EACEB;
+  text-decoration: underline;
   border-radius: 3px;
   padding:0px 15% 0px 0px;
     
@@ -383,6 +386,10 @@ a.clear-all {
 a.clear-all:hover {
   transition: border-color .3s ease-in;
   border-color: #999;
+}
+
+.ais-refinement-list--checkbox {
+  display:none;
 }
 
 /* FOOTER */
