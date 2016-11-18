@@ -1,2 +1,3 @@
 # Algolia_Prototype
-A Search Experience using the Algolia API. 
+
+In this project, I develop a Search experience for a restaurant client, using the Algolia API. 
