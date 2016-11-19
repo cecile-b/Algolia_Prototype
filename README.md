@@ -30,3 +30,4 @@ I commented my code throughout. I wrote a script in Javascript to combine two JS
 3) ATTENTION TO DETAILS 
 
 I also implemented a Search bar using the Algolia Search tool. The search bar highlights when the user clicks into it. 
+
