@@ -24,6 +24,7 @@ Here are a few of the changes I made:
 1b)RELEVANCE 
 
 • I allow the user to sort on location and name attributes. For Ranking, I sort on "star_ratings". Therefore, if a user types in "Oakland," they will be able to see a list of restaurants in Oakland sorted from most popular to least popular. 
+
 • I changed the wording to "what or where would you like to eat?" to be a more friendly prompt to the user. 
 
 2) LEGIBILITY & REUSABILITY 
