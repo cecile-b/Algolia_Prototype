@@ -13,10 +13,10 @@ Evaluation Criteria Addressed:
 I began this project by recreating the mockup I was given in Sketch. I also included a link to the Sketch file in this Github. 
 Here are a few of the changes I made: 
 
-  • I took out the background because I wanted to show the search occuring in the context in which it would actually occur: inside a client's navigation bar. After investigating what common search patterns were from sites like Yelp, Product Hunt, and others, I decided to implement the search bar in a nav that had full width. I also included a fake "logo" to demonstrate that I would want the to help the client feel like this was truly their next search experience. 
-  • I changed the order of the information to match existing search patterns for restaurants. For example, it is most common to give more hierachical importance to the location attribute. For this reason, I gave location a dark color while keeping the other attributes grey. 
-  • I changed the h2 tags to be a darker version of the color given to me in the spec. This is because it is good UX practice not to have pure black on a site, and instead use a dark version of existing color. 
-  • I changed the order of tabs so that search results were on the left and categories on the right. I did this so that when the screen was resized (it is responsive) the most important information (search) would still be there. 
+• I took out the background because I wanted to show the search occuring in the context in which it would actually occur: inside a client's navigation bar. After investigating what common search patterns were from sites like Yelp, Product Hunt, and others, I decided to implement the search bar in a nav that had full width. I also included a fake "logo" to demonstrate that I would want the to help the client feel like this was truly their next search experience. 
+• I changed the order of the information to match existing search patterns for restaurants. For example, it is most common to give more hierachical importance to the location attribute. For this reason, I gave location a dark color while keeping the other attributes grey. 
+• I changed the h2 tags to be a darker version of the color given to me in the spec. This is because it is good UX practice not to have pure black on a site, and instead use a dark version of existing color. 
+• I changed the order of tabs so that search results were on the left and categories on the right. I did this so that when the screen was resized (it is responsive) the most important information (search) would still be there. 
 
 1b)RELEVANCE 
 
