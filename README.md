@@ -2,6 +2,9 @@
 
 In this project, I develop a Search experience for a restaurant client, using the Algolia API. 
 
+You can play with the full project here: cecile-b.github.io/Algolia_Prototype 
+For example, try searching for "Chez Panisse!" 
+
 EVALUATION CRITERIA ADDRESSED: 
 
 1) Overall look'n'feel of the demo: relevance, UI & UX
