@@ -2,13 +2,13 @@
 
 In this project, I develop a Search experience for a restaurant client, using the Algolia API. 
 
-Evaluation Criteria Addressed: 
+EVALUATION CRITERIA ADDRESSED: 
 
 1) Overall look'n'feel of the demo: relevance, UI & UX
 2) Quality of the code: legibility and re-usability
 3) Attention given to details
 
-1a) UI / UX
+1A) UI / UX
 
 I began this project by recreating the mockup I was given in Sketch. I also included a link to the Sketch file in this Github. 
 Here are a few of the changes I made: 
@@ -21,7 +21,7 @@ Here are a few of the changes I made:
 
 • I changed the order of tabs so that search results were on the left and categories on the right. I did this so that when the screen was resized (it is responsive) the most important information (search) would still be there. 
 
-1b)RELEVANCE 
+1B)RELEVANCE 
 
 • I allow the user to sort on location and name attributes. For Ranking, I sort on "star_ratings". Therefore, if a user types in "Oakland," they will be able to see a list of restaurants in Oakland sorted from most popular to least popular. 
 
