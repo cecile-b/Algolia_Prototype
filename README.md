@@ -26,10 +26,10 @@ RELEVANCE
 
 I allow the user to sort on location and name attributes. For Ranking, I sort on "star_ratings". Therefore, if a user types in "Oakland," they will be able to see a list of restaurants in Oakland sorted from most popular to least popular. 
 
-LEGIBILITY & REUSABILITY 
+2) LEGIBILITY & REUSABILITY 
 
 I commented my code throughout. I wrote a script in Javascript to combine two JSON files into one. 
 
-ATTENTION TO DETAILS 
+3) ATTENTION TO DETAILS 
 
 I also implemented a Search bar using the Algolia Search tool. The search bar highlights when the user clicks into it. 
